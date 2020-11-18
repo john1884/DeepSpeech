@@ -19,7 +19,7 @@ tasks:
           - push
           - tag
         branches:
-          - master
+          - even-older-master
 
     scopes: [
       "queue:create-task:highest:proj-deepspeech/*",
